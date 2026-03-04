@@ -1,0 +1,14 @@
+E:\NetLimiterCrack\NetLimiter Crack\obj\Debug\NetLimiter Crack.csproj.AssemblyReference.cache
+E:\NetLimiterCrack\NetLimiter Crack\obj\Debug\NetLimiter_Crack.Form1.resources
+E:\NetLimiterCrack\NetLimiter Crack\obj\Debug\NetLimiter_Crack.Properties.Resources.resources
+E:\NetLimiterCrack\NetLimiter Crack\obj\Debug\NetLimiter Crack.csproj.GenerateResource.cache
+E:\NetLimiterCrack\NetLimiter Crack\obj\Debug\NetLimiter Crack.csproj.CoreCompileInputs.cache
+E:\NetLimiterCrack\NetLimiter Crack\obj\Debug\NetLimiter Crack.exe
+E:\NetLimiterCrack\NetLimiter Crack\obj\Debug\NetLimiter Crack.pdb
+E:\NetLimiterCrack\NetLimiter Crack\bin\Debug\NetLimiter Crack.exe.config
+E:\NetLimiterCrack\NetLimiter Crack\bin\Debug\NetLimiter Crack.exe
+E:\NetLimiterCrack\NetLimiter Crack\bin\Debug\NetLimiter Crack.pdb
+E:\NetLimiterCrack\NetLimiter Crack\bin\Debug\dnlib.xml
+E:\NetLimiterCrack\NetLimiter Crack\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\NetLimiterCrack\NetLimiter Crack\obj\Debug\NetLimiter Crack.csproj.Fody.CopyLocal.cache
+E:\NetLimiterCrack\NetLimiter Crack\obj\Debug\NetLimit.BCD6980B.Up2Date
